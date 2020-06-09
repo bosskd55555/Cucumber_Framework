@@ -1,0 +1,520 @@
+[INFO ] 2020-06-06 07:51:43.724 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:51:51.211 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-06 07:52:04.681 [main] TestBase - URL opened
+[INFO ] 2020-06-06 07:52:12.682 [main] TestBase - initialization complete
+[INFO ] 2020-06-06 07:52:12.691 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:52:12.788 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-06 07:52:14.553 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:52:14.554 [main] TestBase - username and password entered
+[INFO ] 2020-06-06 07:52:14.556 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:52:14.557 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:52:23.355 [main] TestBase - Deals link clicked
+[INFO ] 2020-06-06 07:52:23.366 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:52:23.369 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:52:37.871 [main] TestBase - Deals created
+[INFO ] 2020-06-06 07:52:37.872 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:52:46.325 [main] TestBase - Log out from the application
+[INFO ] 2020-06-06 07:52:46.337 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:52:50.337 [main] TestBase - initialization complete
+[INFO ] 2020-06-06 07:52:50.338 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:52:50.339 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-06 07:52:52.745 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:52:52.748 [main] TestBase - username and password entered
+[INFO ] 2020-06-06 07:52:52.750 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:52:52.752 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:53:01.091 [main] TestBase - Documents link clicked
+[INFO ] 2020-06-06 07:53:01.093 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:53:01.133 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:53:10.041 [main] TestBase - Excel downloaded
+[INFO ] 2020-06-06 07:53:10.048 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:53:19.822 [main] TestBase - Log out from the application
+[INFO ] 2020-06-06 07:53:19.826 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:53:23.828 [main] TestBase - initialization complete
+[INFO ] 2020-06-06 07:53:23.830 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:53:23.832 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-06 07:53:25.190 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:53:25.192 [main] TestBase - username and password entered
+[INFO ] 2020-06-06 07:53:25.194 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:53:25.196 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:53:33.584 [main] TestBase - Deals link clicked
+[INFO ] 2020-06-06 07:53:33.592 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:53:33.595 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:53:47.998 [main] TestBase - Deals created
+[INFO ] 2020-06-06 07:53:48.000 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:53:56.484 [main] TestBase - Documents link clicked
+[INFO ] 2020-06-06 07:53:56.491 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:53:56.493 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:05.305 [main] TestBase - Excel downloaded
+[INFO ] 2020-06-06 07:54:05.306 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:13.786 [main] TestBase - Log out from the application
+[INFO ] 2020-06-06 07:54:13.790 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:17.790 [main] TestBase - initialization complete
+[INFO ] 2020-06-06 07:54:17.799 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:17.800 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-06 07:54:19.223 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:19.223 [main] TestBase - username and password entered
+[INFO ] 2020-06-06 07:54:19.271 [main] TestBase - Title of homepage verified
+[INFO ] 2020-06-06 07:54:19.273 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:19.276 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:27.654 [main] TestBase - Deals link clicked
+[INFO ] 2020-06-06 07:54:27.656 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:36.229 [main] TestBase - Log out from the application
+[INFO ] 2020-06-06 07:54:36.232 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:40.233 [main] TestBase - initialization complete
+[INFO ] 2020-06-06 07:54:40.239 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:40.244 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-06 07:54:41.941 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:41.943 [main] TestBase - username and password entered
+[INFO ] 2020-06-06 07:54:41.944 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:41.949 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:51.082 [main] TestBase - Log out from the application
+[INFO ] 2020-06-06 07:54:51.086 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:55.087 [main] TestBase - initialization complete
+[INFO ] 2020-06-06 07:54:55.094 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:55.095 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-06 07:54:55.215 [main] TestBase - Title verified
+[INFO ] 2020-06-06 07:54:55.216 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:55.221 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-06 07:54:56.328 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:56.330 [main] TestBase - username and password entered
+[INFO ] 2020-06-06 07:54:56.350 [main] TestBase - Title of homepage verified
+[INFO ] 2020-06-06 07:54:56.351 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:54:56.352 [main] TestBase - Property file loaded
+[INFO ] 2020-06-06 07:55:04.886 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 06:57:08.597 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:57:19.291 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-07 06:57:34.240 [main] TestBase - URL opened
+[INFO ] 2020-06-07 06:57:42.260 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 06:57:42.260 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:57:42.423 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 06:57:44.032 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:57:44.032 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 06:57:44.036 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:57:44.036 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:57:52.809 [main] TestBase - Deals link clicked
+[INFO ] 2020-06-07 06:57:52.809 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:57:52.809 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:58:08.392 [main] TestBase - Deals created
+[INFO ] 2020-06-07 06:58:08.392 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:58:16.815 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 06:58:16.819 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:58:20.826 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 06:58:20.826 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:58:20.826 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 06:58:22.169 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:58:22.173 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 06:58:22.173 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:58:22.173 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:58:30.561 [main] TestBase - Documents link clicked
+[INFO ] 2020-06-07 06:58:30.563 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:58:30.566 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:58:39.385 [main] TestBase - Excel downloaded
+[INFO ] 2020-06-07 06:58:39.389 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:58:48.019 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 06:58:48.023 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:58:52.034 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 06:58:52.036 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:58:52.037 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 06:58:53.158 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:58:53.162 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 06:58:53.165 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:58:53.168 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:59:01.573 [main] TestBase - Deals link clicked
+[INFO ] 2020-06-07 06:59:01.575 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:59:01.576 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:59:15.784 [main] TestBase - Deals created
+[INFO ] 2020-06-07 06:59:15.788 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:59:24.131 [main] TestBase - Documents link clicked
+[INFO ] 2020-06-07 06:59:24.131 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:59:24.131 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:59:32.998 [main] TestBase - Excel downloaded
+[INFO ] 2020-06-07 06:59:33.002 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:59:41.674 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 06:59:41.678 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:59:45.678 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 06:59:45.678 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:59:45.678 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 06:59:46.866 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:59:46.866 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 06:59:46.936 [main] TestBase - Title of homepage verified
+[INFO ] 2020-06-07 06:59:46.940 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:59:46.944 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 06:59:55.305 [main] TestBase - Deals link clicked
+[INFO ] 2020-06-07 06:59:55.307 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:00:03.728 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 07:00:03.736 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:00:07.738 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:00:07.738 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:00:07.738 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:00:08.899 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:00:08.899 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 07:00:08.899 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:00:08.908 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:00:17.523 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 07:00:17.527 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:00:21.670 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:00:21.676 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:00:21.676 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:00:22.619 [main] TestBase - Title verified
+[INFO ] 2020-06-07 07:00:22.647 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:00:22.651 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:00:29.307 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:00:29.307 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 07:00:29.332 [main] TestBase - Title of homepage verified
+[INFO ] 2020-06-07 07:00:29.332 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:00:29.336 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:00:37.834 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 07:24:06.887 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:24:12.642 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-07 07:25:35.285 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:25:39.882 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-07 07:25:49.289 [main] TestBase - URL opened
+[INFO ] 2020-06-07 07:25:57.292 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:25:57.302 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:25:57.307 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:25:57.398 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:25:58.598 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:25:58.602 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:25:58.602 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:44:12.391 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:44:17.699 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-07 07:44:49.060 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:44:53.073 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:44:53.080 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:44:53.188 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:44:53.380 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:44:57.383 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:44:57.383 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:44:57.387 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:44:57.437 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:45:01.443 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:45:01.447 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:45:01.447 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:45:49.580 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:45:54.750 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-07 07:46:26.117 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:46:30.120 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:46:30.122 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:46:30.295 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:46:30.407 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:46:34.410 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:46:34.410 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:46:34.412 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:46:34.449 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:46:38.450 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:46:38.450 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:46:38.450 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:49:52.308 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:49:57.468 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-07 07:50:15.324 [main] TestBase - URL opened
+[INFO ] 2020-06-07 07:50:23.326 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:50:23.351 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:23.353 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:23.521 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:50:24.653 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:24.653 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:24.657 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:28.755 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:32.776 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:50:32.806 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:32.844 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:50:34.315 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:34.319 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 07:50:34.323 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:34.325 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:38.383 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:42.384 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:50:42.386 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:42.387 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:50:43.576 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:43.580 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 07:50:43.580 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:43.580 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:47.653 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:51.653 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:50:51.653 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:51.653 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:50:52.896 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:52.896 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 07:50:52.896 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:50:52.900 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:52:16.596 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:52:21.749 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-07 07:52:36.817 [main] TestBase - URL opened
+[INFO ] 2020-06-07 07:52:44.820 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:52:44.825 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:52:44.830 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:52:44.905 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:52:46.360 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:52:46.364 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:52:46.364 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:52:55.535 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 07:52:55.543 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:52:59.579 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:52:59.579 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:52:59.589 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:53:01.286 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:53:01.290 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 07:53:01.290 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:53:01.294 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:53:10.063 [main] TestBase - Deals link clicked
+[INFO ] 2020-06-07 07:53:10.067 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:53:10.067 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:53:10.162 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:53:14.162 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:53:14.162 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:53:14.168 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:53:14.209 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:53:18.214 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:53:18.217 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:53:18.218 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:54:29.597 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:54:35.338 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-07 07:54:51.898 [main] TestBase - URL opened
+[INFO ] 2020-06-07 07:54:59.905 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:54:59.910 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:54:59.915 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:00.020 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:55:01.494 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:01.504 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:01.505 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:10.916 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 07:55:10.926 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:14.929 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:55:14.929 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:14.939 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:55:16.431 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:16.435 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 07:55:16.439 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:16.439 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:24.983 [main] TestBase - Deals link clicked
+[INFO ] 2020-06-07 07:55:24.987 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:24.988 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:31.198 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:39.788 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 07:55:39.792 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:43.793 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:55:43.793 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:43.793 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:55:45.078 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:45.082 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 07:55:45.082 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:45.082 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:53.435 [main] TestBase - Deals link clicked
+[INFO ] 2020-06-07 07:55:53.435 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:53.439 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:55:59.521 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:59:14.551 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:59:20.111 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-07 07:59:38.177 [main] TestBase - URL opened
+[INFO ] 2020-06-07 07:59:46.181 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 07:59:46.187 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:59:46.188 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:59:46.258 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 07:59:47.731 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:59:47.739 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:59:47.739 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 07:59:56.650 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 07:59:56.659 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:00:00.670 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 08:00:00.670 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:00:00.682 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 08:00:02.556 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:00:02.560 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 08:00:02.560 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:00:02.564 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:00:10.952 [main] TestBase - Deals link clicked
+[INFO ] 2020-06-07 08:00:10.956 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:00:10.956 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:00:25.495 [main] TestBase - Deals created
+[INFO ] 2020-06-07 08:00:25.496 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:00:33.949 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 08:00:33.953 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:00:37.957 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 08:00:37.960 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:00:37.965 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 08:00:40.235 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:00:40.235 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 08:00:40.235 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:00:40.243 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:00:48.589 [main] TestBase - Deals link clicked
+[INFO ] 2020-06-07 08:00:48.591 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:00:48.593 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:01:02.751 [main] TestBase - Deals created
+[INFO ] 2020-06-07 08:01:02.751 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:01:11.196 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 08:01:11.200 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:01:15.204 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 08:01:15.205 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:01:15.206 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 08:01:16.425 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:01:16.429 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 08:01:16.429 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:01:16.429 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:01:24.774 [main] TestBase - Deals link clicked
+[INFO ] 2020-06-07 08:01:24.774 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:01:24.779 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:01:38.824 [main] TestBase - Deals created
+[INFO ] 2020-06-07 08:01:38.824 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:01:47.293 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 08:06:27.477 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:06:33.493 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-07 08:06:45.653 [main] TestBase - URL opened
+[INFO ] 2020-06-07 08:06:53.657 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 08:06:53.677 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:06:53.687 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:06:53.817 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 08:06:55.369 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:06:55.377 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:06:55.377 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:07:04.079 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 08:07:04.200 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:07:08.204 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 08:07:08.210 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:07:08.210 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 08:07:10.544 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:07:10.548 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 08:07:10.552 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:07:10.552 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:07:19.051 [main] TestBase - Deals link clicked
+[INFO ] 2020-06-07 08:07:19.054 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:07:19.110 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:07:33.537 [main] TestBase - Deals created
+[INFO ] 2020-06-07 08:07:33.537 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:07:41.989 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 08:07:41.997 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:07:46.035 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 08:07:46.035 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:07:46.040 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 08:07:48.605 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:07:48.609 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 08:07:48.613 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:07:48.613 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:07:57.047 [main] TestBase - Deals link clicked
+[INFO ] 2020-06-07 08:07:57.050 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:07:57.050 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:08:11.514 [main] TestBase - Deals created
+[INFO ] 2020-06-07 08:08:11.519 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:08:19.873 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 08:08:19.877 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:08:23.902 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 08:08:23.907 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:08:23.907 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-07 08:08:25.409 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:08:25.413 [main] TestBase - username and password entered
+[INFO ] 2020-06-07 08:08:25.413 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:08:25.417 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:08:33.770 [main] TestBase - Deals link clicked
+[INFO ] 2020-06-07 08:08:33.776 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:08:33.777 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:08:47.848 [main] TestBase - Deals created
+[INFO ] 2020-06-07 08:08:47.863 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 08:08:56.319 [main] TestBase - Log out from the application
+[INFO ] 2020-06-07 09:49:01.792 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 09:49:09.716 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-07 09:49:26.129 [main] TestBase - URL opened
+[INFO ] 2020-06-07 09:49:34.135 [main] TestBase - initialization complete
+[INFO ] 2020-06-07 10:17:49.318 [main] TestBase - Property file loaded
+[INFO ] 2020-06-07 10:17:59.261 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-07 10:18:13.236 [main] TestBase - URL opened
+[INFO ] 2020-06-07 10:18:21.242 [main] TestBase - initialization complete
+[INFO ] 2020-06-08 23:27:18.409 [main] TestBase - Property file loaded
+[INFO ] 2020-06-08 23:27:31.143 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-08 23:27:41.002 [main] TestBase - URL opened
+[INFO ] 2020-06-08 23:27:49.004 [main] TestBase - initialization complete
+[INFO ] 2020-06-09 00:53:32.067 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 00:53:40.039 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-09 00:53:42.270 [main] TestBase - URL opened
+[INFO ] 2020-06-09 00:53:50.271 [main] TestBase - initialization complete
+[INFO ] 2020-06-09 00:53:50.293 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 00:53:50.398 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-09 01:44:58.248 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 01:45:12.921 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-09 01:45:25.115 [main] TestBase - URL opened
+[INFO ] 2020-06-09 01:45:33.117 [main] TestBase - initialization complete
+[INFO ] 2020-06-09 01:45:33.315 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 01:45:33.406 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-09 01:45:33.433 [main] TestBase - Title verified
+[INFO ] 2020-06-09 01:45:33.437 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 01:45:33.438 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-09 01:45:35.863 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 01:45:35.864 [main] TestBase - username and password entered
+[INFO ] 2020-06-09 01:45:35.881 [main] TestBase - Title of homepage verified
+[INFO ] 2020-06-09 01:45:35.884 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 01:45:35.886 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 01:45:45.752 [main] TestBase - Log out from the application
+[INFO ] 2020-06-09 01:58:59.749 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 01:59:10.986 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-09 01:59:24.151 [main] TestBase - URL opened
+[INFO ] 2020-06-09 01:59:32.152 [main] TestBase - initialization complete
+[INFO ] 2020-06-09 01:59:32.228 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 01:59:32.342 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-09 01:59:32.419 [main] TestBase - Title verified
+[INFO ] 2020-06-09 01:59:32.424 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 01:59:32.424 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-09 01:59:33.838 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 01:59:33.840 [main] TestBase - username and password entered
+[INFO ] 2020-06-09 01:59:33.862 [main] TestBase - Title of homepage verified
+[INFO ] 2020-06-09 01:59:33.866 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 01:59:33.867 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 01:59:44.393 [main] TestBase - Log out from the application
+[INFO ] 2020-06-09 02:03:10.679 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:03:17.551 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-09 02:03:49.094 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:03:53.094 [main] TestBase - initialization complete
+[INFO ] 2020-06-09 02:03:53.106 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:03:53.149 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:03:53.311 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-09 02:12:02.871 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:12:08.956 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-09 02:12:20.257 [main] TestBase - URL opened
+[INFO ] 2020-06-09 02:12:28.258 [main] TestBase - initialization complete
+[INFO ] 2020-06-09 02:12:28.278 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:12:28.279 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:12:28.363 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-09 02:12:29.867 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:12:29.872 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:12:29.872 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:12:38.518 [main] TestBase - Log out from the application
+[INFO ] 2020-06-09 02:12:38.553 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:12:42.580 [main] TestBase - initialization complete
+[INFO ] 2020-06-09 02:12:42.588 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:12:42.590 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:12:42.592 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-09 02:12:44.552 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:19:01.023 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:19:06.668 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-09 02:19:16.565 [main] TestBase - URL opened
+[INFO ] 2020-06-09 02:19:24.567 [main] TestBase - initialization complete
+[INFO ] 2020-06-09 02:19:24.617 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:19:24.625 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:19:24.774 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-09 02:19:26.076 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:21:06.917 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:21:12.997 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-09 02:21:22.690 [main] TestBase - URL opened
+[INFO ] 2020-06-09 02:21:30.690 [main] TestBase - initialization complete
+[INFO ] 2020-06-09 02:21:30.741 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:21:30.763 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:21:30.898 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-09 02:21:32.168 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:21:32.170 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:21:32.171 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-09 02:21:33.149 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:21:33.156 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:21:33.157 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:23:32.113 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:23:38.158 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-09 02:23:45.524 [main] TestBase - URL opened
+[INFO ] 2020-06-09 02:23:53.539 [main] TestBase - initialization complete
+[INFO ] 2020-06-09 02:23:53.682 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:23:53.799 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-09 02:23:53.875 [main] TestBase - Title verified
+[INFO ] 2020-06-09 02:23:53.878 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:23:53.879 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-09 02:23:55.364 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:23:55.367 [main] TestBase - username and password entered
+[INFO ] 2020-06-09 02:23:55.392 [main] TestBase - Title of homepage verified
+[INFO ] 2020-06-09 02:23:55.397 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:23:55.399 [main] TestBase - Property file loaded
+[INFO ] 2020-06-09 02:24:03.989 [main] TestBase - Log out from the application
